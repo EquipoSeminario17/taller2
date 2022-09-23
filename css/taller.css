@@ -1,0 +1,24 @@
+#container1{
+    border:1px solid #828082;
+    border-radius: 1px;
+}
+#containerprin{
+    border:2px solid blue;
+    border-radius: 1px;
+    background-color: #edeced;
+}
+#alinear{
+    
+    align-items: center;
+    justify-content: center;
+}
+#color{
+    background-color: #5ab2dc;
+}
+#margen{
+    text-align: right;
+    height: 30%;
+    width: 30%;
+    border:1px solid #828082;
+    border-radius: 1px;
+}
