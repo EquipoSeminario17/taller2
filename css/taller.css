@@ -15,10 +15,11 @@
 #color{
     background-color: #5ab2dc;
 }
-#margen{
-    text-align: right;
-    height: 30%;
-    width: 30%;
-    border:1px solid #828082;
-    border-radius: 1px;
+#perfil{
+    width: 40%;
+    height: 40%;
+}
+body {
+   
+    background-image: url("https://img.freepik.com/vector-gratis/fondo-banner-abstracto-formas-rojas_1361-3348.jpg?w=996&t=st=1664063699~exp=1664064299~hmac=dd2a67a8983028be90824ee1a6b0fd23aad6aa02907bbeca81ebde6e421ff896");
 }
